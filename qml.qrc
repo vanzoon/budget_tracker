@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BookkeepingList.qml</file>
+        <file>Entry.qml</file>
+        <file>bookkeepingmodel.h</file>
+        <file>bookkeepingmodel.cpp</file>
+        <file>bookkeepinglist.h</file>
+        <file>bookkeepinglist.cpp</file>
+    </qresource>
+</RCC>
